@@ -1,0 +1,171 @@
+.Homepage{
+    width:100%;
+    border:1px solid black;
+  }
+
+  .hojo{
+    margin-left: 20px;
+    font-size: 20px;
+  }
+  
+  .hotjobs{
+    display: flex;
+    padding: 2px;
+    
+  }
+  
+  .LAB{
+    background-color: #f9e8f2;
+    border-radius: 10px;
+    margin: 10px;
+    width: 230px;
+    margin-left: 200px;
+  }
+  
+  .LAD{
+    background-color: #f9e8f2;
+    border-radius: 10px;
+    margin: 10px;
+    width: 230px;
+    margin-left: 50px;
+  }
+  
+  .LAD1{
+    background-color: #f9e8f2;
+    border-radius: 10px;
+    margin: 10px;
+    width: 230px;
+    margin-left: 50px;
+  
+  }
+  .select{
+    margin-left: 20px;
+    font-size: 20px;
+  }
+  .selectbycom{
+    display: flex;
+    padding: 2px;
+  }
+  
+  .tata{
+    height: 50px;
+    width: 50px;
+    margin-left: 80px;
+    border: none;
+  }
+  .yash{
+    height: 50px;
+    width: 50px;
+    margin-left: 40px;
+    border: none;
+  }
+  
+  .srm{
+      height: 50px;
+      width: 50px;
+      margin-left: 40px;
+      border: none;
+    }
+  
+  
+  .wipro{
+    height: 50px;
+    width: 50px;
+    margin-left: 40px;
+    border:none;
+  }
+  
+  .quest{
+    height: 50px;
+    width: 50px;
+    margin-left: 40px;
+    border: none;
+  }
+  
+  .asg{
+    height: 50px;
+    width: 50px;
+    margin-left: 40px;
+    border: none;
+  }
+  
+  .harman{
+    height: 50px;
+    width: 50px;
+    margin-left: 40px;
+    border: none;
+  }
+  
+  .career{
+    margin-left: 20px;
+    font-size: 20px;
+  }
+  
+  .firstcareerblock{
+    display: flex;
+   
+  }
+  .f1{
+    margin-left: 20px;
+    
+  }
+  .f11{
+    margin-left: 10px;
+    width: 300px;
+  }
+  
+  .f2{
+    margin-left: 20px;
+  }
+  .f22{
+    margin-left: 10px;
+    width:280px;
+  }
+  
+  .secondcareerblock{
+    display: flex;
+   
+  }
+  .f3{
+    margin-left: 20px;
+    
+  }
+  .f33{
+    margin-left: 10px;
+    width: 300px;
+  }
+  
+  .f4{
+    margin-left: 20px;
+  }
+  .f44{
+    margin-left: 10px;
+    width:280px;
+  }
+  
+  .thiredcareerblock{
+    display: flex;
+   
+  }
+  .f5{
+    margin-left: 20px;
+    
+  }
+  .f55{
+    margin-left: 10px;
+    width: 300px;
+  }
+  
+  .f6{
+    margin-left: 20px;
+  }
+  .f66{
+    margin-left: 10px;
+    width:280px;
+  }
+    
+  .footer{
+    width: 100%;
+    text-align: center;
+    background-color: #cc338b; 
+  }
